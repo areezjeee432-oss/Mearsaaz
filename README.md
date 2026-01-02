@@ -1,6 +1,6 @@
 # Mearsaaz
 This is my first project on GitHub for my assignment."
-Hi there, I'm [Aapka Naam]! 👋
+Hi there, I'm Areez Hassan! 👋
 
 I am a passionate learner currently exploring the world of **Software Development**. This repository is where I track my progress and showcase my projects.
 
@@ -14,4 +14,4 @@ I am a passionate learner currently exploring the world of **Software Developmen
 - **Tools:** Git, GitHub, VS Code
 
 ## 📈 GitHub Stats
-(Aap yahan apni progress dekh sakte hain!)
+
